@@ -1,0 +1,29 @@
+.container{
+    width: 700px;
+    height: 700px;
+    background-color: white;
+}
+
+
+.row{
+    width: 500px;
+    height: 130px;
+}
+
+#blue{
+    background-color: #9bd9e8;
+}
+
+.row img{
+    width:100px;
+    height: 99px;
+}
+
+#grey{
+    background-color:#a9bac6;
+
+}
+
+#white{
+    background-color: white;
+}
