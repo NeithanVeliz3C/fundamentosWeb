@@ -172,5 +172,20 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 25px;
-    text-align: center;
+    text-align: center; 
+}
+
+#parte-final{
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #f8f7f5;
+    margin-top: 80px;
+}
+
+#parte-final h2{
+
+}
+
+#final{
+    max-width: 200px;
 }
