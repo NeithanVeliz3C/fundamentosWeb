@@ -180,12 +180,65 @@ body{
     padding-right: 80px;
     background-color: #f8f7f5;
     margin-top: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 100%;
 }
 
-#parte-final h2{
-
-}
-
-#final{
+.final{
     max-width: 200px;
+    margin-right: 20px;
+}
+
+.final h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.final-2{
+    max-width: 120px;
+    margin-right: 70px;
+}
+
+.final-3{
+    margin-right: 20px;
+}
+
+.filas{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.filas h2{
+    font-size: 18px;
+}
+
+.redes-sociales img{
+    width: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.face{
+    margin-right: 10px;
+}
+
+.twt{
+    margin-right: 10px;
+}
+
+.app img{
+    height: 40px;
+}
+
+.app{
+    margin-left: 210px;
+}
+
+.app h2{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    border-top: solid 1px #e5e7eb;
 }
